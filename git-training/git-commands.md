@@ -1,0 +1,11 @@
+# 1
+- git init
+- git status
+- git add [file]
+- git reset [file]
+- git commit -m "[message]"
+- ? git checkout -> switch another branch and check it out into your working directory
+- git log
+- git reflog
+- git reset
+- ? git reset --hard [commit]
